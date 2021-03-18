@@ -8,7 +8,7 @@ A Tower Defence Game based on Unity 3D.
 
 [@summinter](https://github.com/summinter)
 
-[Chuancey-Yu](https://github.com/Chuancey-Yu)
+[@Chuancey-Yu](https://github.com/Chuancey-Yu)
 
 
 ## Minecraft model of Sustech
