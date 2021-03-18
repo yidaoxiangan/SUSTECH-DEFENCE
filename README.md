@@ -26,4 +26,4 @@ Choose first person or third person
 ![6](images/pic6.png)
 
 ## Releases
-Request [this url](https://github.com/yidaoxiangan/SUSTECH-DEFENCE/releases) for downloading our game.
+Request [this url](https://github.com/yidaoxiangan/SUSTECH-DEFENCE/releases) for downloading our game or download [here](https://mega.nz/file/k0ZjSC6S#QVyoEhCwvyfTe0clOwG7P8sZh4Gzvg6mPxNgldvGgXM).
