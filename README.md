@@ -4,8 +4,9 @@ A Tower Defence Game based on Unity 3D.
 
 ## Cooperators
 
-@summinter
-@Bugjudger
+[@Bugjudger](https://github.com/Bugjudger)
+[@summinter](https://github.com/summinter)
+
 
 ## Minecraft model of Sustech
 
