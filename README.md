@@ -4,9 +4,9 @@ A Tower Defence Game based on Unity 3D.
 
 ## Group Members
 
-ShuaiHan Chen (Junior in SUSTech) [@yidaoxiangan](https://github.com/yidaoxiangan)
+Shuaihan Chen (Junior in SUSTech) [@yidaoxiangan](https://github.com/yidaoxiangan)
 
-DingQiang Ye (Junior in SUSTech) [@Bugjudger](https://github.com/Bugjudger)
+Dingqiang Ye (Junior in SUSTech) [@Bugjudger](https://github.com/Bugjudger)
 
 Xiao Dong (Junior in SUSTech) [@summinter](https://github.com/summinter)
 
