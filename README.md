@@ -27,3 +27,6 @@ Choose first person or third person
 
 ## Releases
 Request [this url](https://github.com/yidaoxiangan/SUSTECH-DEFENCE/releases) for downloading our game or download [here](https://mega.nz/file/k0ZjSC6S#QVyoEhCwvyfTe0clOwG7P8sZh4Gzvg6mPxNgldvGgXM).
+
+## Source Project
++ The size of soruce project is big so we put in on mega. You can download full project [here](https://mega.nz/file/AkBFHYoY#yKWCv1aHj6tMZx1TLwTCFiTNOCVwKEodf26mLfT2rgk).
