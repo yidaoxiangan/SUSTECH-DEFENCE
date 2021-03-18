@@ -2,13 +2,15 @@
 
 A Tower Defence Game based on Unity 3D.
 
-## Cooperators
+## Group Members
 
-[@Bugjudger](https://github.com/Bugjudger)
+ShuaiHan Chen (Junior in SUSTech) [@yidaoxiangan](https://github.com/yidaoxiangan)
 
-[@summinter](https://github.com/summinter)
+DingQiang Ye (Junior in SUSTech) [@Bugjudger](https://github.com/Bugjudger)
 
-[@Chuancey-Yu](https://github.com/Chuancey-Yu)
+Xiao Dong (Junior in SUSTech) [@summinter](https://github.com/summinter)
+
+Xiangyu Xu (Junior in SUSTech) [@Chuancey-Yu](https://github.com/Chuancey-Yu)
 
 
 ## Minecraft model of Sustech
