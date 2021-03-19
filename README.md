@@ -10,7 +10,7 @@ Dingqiang Ye (Junior in SUSTech) [@Bugjudger](https://github.com/Bugjudger)
 
 Xiao Dong (Junior in SUSTech) [@summinter](https://github.com/summinter)
 
-Xiangyu Xu (Junior in SUSTech) [@Chuancey-Yu](https://github.com/Chauncey-Xxy)
+Xiangyu Xu (Junior in SUSTech) [@Chauncey-Xxy](https://github.com/Chauncey-Xxy)
 
 
 ## Minecraft model of Sustech
